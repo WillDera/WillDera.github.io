@@ -19,5 +19,5 @@
 "display": "standalone",
 "orientation": "portrait",
 "scope": "/todo/",
-"start_url": "/todo/"
+"start_url": "/index.html"
 }
