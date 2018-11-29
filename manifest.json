@@ -1,5 +1,5 @@
 {
-  "short_name": "ToDo",
+  "short_name": "To Do",
   "name": "My ToDo App",
   "description": "Progressive web application demonstration",
   "icons": [
@@ -18,6 +18,5 @@
 "background_color": "#77c4d3",
 "display": "standalone",
 "orientation": "portrait",
-"scope": "/todo/",
 "start_url": "/index.html"
 }
